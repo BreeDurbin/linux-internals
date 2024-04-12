@@ -34,3 +34,12 @@ events
 multithreaded programs which can communnicate between threads using an event queue
 ```
 
+kernel
+```
+makes a variety of kernel syscalls
+```
+
+linking
+```
+static and dynamic linking demo
+```
