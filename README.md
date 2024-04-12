@@ -24,6 +24,13 @@ writes to a file based on console input
 can read from taht file and print it out
 ```
 
+multithread
+```
+spin up multiple threads and have them access a shared resource while using mutex to block access conflicts
+```
 
+events
 ```
+multithreaded programs which can communnicate between threads using an event queue
 ```
+
