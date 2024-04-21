@@ -2,10 +2,18 @@
 ![GPL License](https://img.shields.io/github/license/BreeDurbin/cyrus?style=flat-square&logo=gnu&label=License)
 
 # linux-internals
-linux internals demo. Process management, memory management, file io, multithreading, IPC etc
+linux internals. Process management, memory management, file io, multithreading, IPC etc
 
 
 Notes to self:
+
+ipc
+```
+communication via ipc
+to child processes 
+and to unrelated processes
+via differrent transport layers
+```
 
 memory management
 ```
